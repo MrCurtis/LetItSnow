@@ -13,3 +13,9 @@ With python installed type:
     python let_it_snow.py
 
 from the command line.
+
+Screenshot:
+-----------
+
+![Screenshot](https://raw.github.com/MrCurtis/LetItSnow/screenshot/let_it_snow_screenshot.png)
+
