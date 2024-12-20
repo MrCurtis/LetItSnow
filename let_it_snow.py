@@ -25,7 +25,7 @@ class FlakeData():
 	def __init__(self):
 		self.alpha = random.random()
 		self.beta = random.random()
-		self.mm = random.randint(3,10)
+		self.mm = 6
 		
 def GetFlake():
 	background = pygame.Surface((101,101))
